@@ -1,5 +1,3 @@
-# Ejercicio 1
-
 def math():
     a = 57
     b = 7
@@ -31,8 +29,6 @@ def math():
     print(multiplicate)
 
 math()
-
-# Ejercicio 2
 
 i1 = 2
 i2 = 4
