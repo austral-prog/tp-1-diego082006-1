@@ -20,7 +20,7 @@ z1 = i3 / i2
 print(z1)
 z2 = i3 % i2
 print(z2)
-f1 = -.5
+f1 = -0.5
 f2 = 10
 f3 = f1 + f2
 i3 = int(f3)
@@ -34,4 +34,5 @@ print(f2)
 print("más")
 print(f1)
 print("es:")
+
 print(f2 + f1)
