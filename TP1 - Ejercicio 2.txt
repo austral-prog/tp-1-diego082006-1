@@ -1,0 +1,28 @@
+Microsoft Windows [Versión 10.0.26100.4946]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\ejercicio2-tp1-ua-diego.py
+valor de i1
+2
+valor de i2
+4
+valor de i3
+6
+valor total
+12
+Python is awesome
+Naranja, Naranja, Naranja
+1.5
+2
+entero de i3:
+10
+variable de f3:
+10.5
+el valor de i1 es igual a:
+12
+más
+0.5
+es:
+12.5
+
+C:\Users\diede>

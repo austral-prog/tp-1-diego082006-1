@@ -1,0 +1,13 @@
+Microsoft Windows [Versión 10.0.26100.4946]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\diede>C:\Users\diede\OneDrive\prog\prog1-python\exercise1_math_diego_ua.py
+64
+50
+339
+32.0
+8
+1.0
+8.142857142
+
+C:\Users\diede>
