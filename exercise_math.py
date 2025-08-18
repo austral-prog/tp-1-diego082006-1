@@ -2,9 +2,9 @@ def math():
     a = 57
     b = 7
     suma = a + b
-    print(suma) # suma
+    print(suma) 
     resta = a - b
-    print(resta) # resta
+    print(resta) 
 
 math()
 
