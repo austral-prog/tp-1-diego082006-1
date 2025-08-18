@@ -7,6 +7,7 @@ print("valor de i2")
 print(i2)
 print("valor de i3")
 print(i3)
+print("valor total")
 print(i1 + i2 + i3)
 
 s1, s2, s3 = "Python", " is ", 'awesome'
@@ -20,7 +21,7 @@ z1 = i3 / i2
 print(z1)
 z2 = i3 % i2
 print(z2)
-f1 = -.5
+f1 = 0.5
 f2 = 10
 f3 = f1 + f2
 i3 = int(f3)
