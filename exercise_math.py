@@ -3,30 +3,32 @@ def math():
     b = 7
     suma = a + b
     print(suma) 
-    resta = a - b
-    print(resta) 
+    diferencia = a - b
+    print(diferencia) 
 
 math()
 
 def math():
     a = 113*3
     b = 64/2
-    print(a) # multiplicación
-    print(b) # división
+    print(a) # producto
+    print(b) # promedio
 
 math()
 
 def math():
-    a = 8*1
-    b = 8/8
-    print(a) # multiplicación
-    print(b) # división
+    a = 16 / 2
+    b = 11 % 2
+    print(a) # cociente entero
+    print(b) # resto
 
 math()
 
 def math():
-    multiplicate = 4.071428571*2
-    print(multiplicate)
+    a = 57
+    b = 7
+    división real = 57/7
+    print(división real)
 
 math()
 
@@ -48,7 +50,6 @@ print(s1 + s2 + s3)
 x = "Naranja"
 y = z = ", Naranja"
 print(x + y + z)
-
 z1 = i3 / i2
 print(z1)
 z2 = i3 % i2
