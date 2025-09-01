@@ -2,17 +2,17 @@ def math():
     a = 57
     b = 7
     suma = a + b
-    print(suma) # Suma
+    print(suma) 
     diferencia = a - b
-    print(diferencia) # Diferencia
+    print(diferencia)
     producto = a*b
-    print(producto) # Producto
+    print(producto) 
     promedio =(a+b)/2
-    print(promedio) # Promedio
+    print(promedio) 
     cociente_entero = a//b
-    print(cociente_entero) # Cociente entero
+    print(cociente_entero) 
     resto = a%b
-    print(resto) # Resto
+    print(resto) 
     división_real = a/b
-    print(división_real) # División real
+    print(división_real) 
 math()
