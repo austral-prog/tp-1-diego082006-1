@@ -15,4 +15,5 @@ def math():
     print(resto) 
     división_real = a/b
     print(división_real) 
+
 math()
