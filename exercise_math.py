@@ -10,11 +10,11 @@ def math():
     print(producto) 
     promedio =(a+b)/2
     print(promedio) 
-    cociente_entero = a//b
+    cociente_entero = a // b
     print(cociente_entero) 
-    resto = a%b
+    resto = a % b
     print(resto) 
-    división_real = a/b
+    división_real = a / b
     print(división_real) 
 
 math()
